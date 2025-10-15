@@ -1,0 +1,15 @@
+fastapi>=0.116.1
+ipykernel>=6.20.0
+langchain>=0.3.0
+langchain-community>=0.3.27
+langchain-mcp-adapters>=0.1.9
+langchain-openai>=0.2.0
+langgraph
+pydantic>=2.0.0
+python-dotenv>=1.1.1
+uvicorn>=0.35.0
+redis
+gunicorn==21.2.0
+langgraph-checkpoint-redis
+redis
+mysql-connector-python==8.3.0

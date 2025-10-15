@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+*.env
+.env.local
+
+# Logs
+*.log
+nohup.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outros
+node_modules/
+dist/
+build/
+sales_info_agent/scoping_step/core/prompts/scoping.py
+sales_info_agent/formatting_step/core/prompts/formatting.py
